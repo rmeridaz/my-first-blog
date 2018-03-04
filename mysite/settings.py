@@ -25,7 +25,7 @@ SECRET_KEY = 'ucx!)j#=4hok4$vel8-(k%qhh*30ry8#jtif9)@oid6j(b2ou@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rmeridaz.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
